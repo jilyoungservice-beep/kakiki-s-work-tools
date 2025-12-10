@@ -1,0 +1,5 @@
+{
+  "name": "采购合同生成器",
+  "description": "Professional contract generator for Procurement and Freight Forwarding with automatic electronic seal generation and AI clause drafting.",
+  "requestFramePermissions": []
+}
